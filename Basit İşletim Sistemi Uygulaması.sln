@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Basit İşletim Sistemi Uygulaması", "Basit İşletim Sistemi Uygulaması\Basit İşletim Sistemi Uygulaması.vbproj", "{53D0FFDA-A00F-4D51-9A71-D886C5811D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D0FFDA-A00F-4D51-9A71-D886C5811D75}.Debug|x86.ActiveCfg = Debug|x86
+		{53D0FFDA-A00F-4D51-9A71-D886C5811D75}.Debug|x86.Build.0 = Debug|x86
+		{53D0FFDA-A00F-4D51-9A71-D886C5811D75}.Release|x86.ActiveCfg = Release|x86
+		{53D0FFDA-A00F-4D51-9A71-D886C5811D75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
